@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-AhmadK/data-modeling-with-NoSQL-database/pull/1)
-- [ci/cd](https://github.com/401-advanced-javascript-AhmadK/data-modeling-with-NoSQL-database/actions/runs/32991362) (GitHub Actions) 
+- [submission PR](https://github.com/401-advanced-javascript-AhmadK/data-modeling/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-AhmadK/data-modeling/actions) (GitHub Actions) 
 
 #### How to initialize/run your application (where applicable)
 
@@ -23,4 +23,4 @@
 
 #### UML
 
-![data-modeling-with-noSQL-database](assets/Data-Modeling-With-NoSQL-Database.jpg)
+![data-modeling-with-noSQL-database](assets/Data-Modeling.jpg)
