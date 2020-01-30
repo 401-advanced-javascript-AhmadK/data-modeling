@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-AhmadK/data-modeling-with-NoSQL-database/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-AhmadK/data-modeling-with-NoSQL-database/actions/runs/32991362) (GitHub Actions)
 
 #### How to initialize/run your application (where applicable)
 
