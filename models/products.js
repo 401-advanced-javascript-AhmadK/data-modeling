@@ -1,6 +1,6 @@
 'use strict';
 
-const model = require('../memory-data-model.js');
+const model = require('./memory-data-model.js');
 
 class Products extends model {
   constructor() {

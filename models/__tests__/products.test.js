@@ -1,6 +1,6 @@
 'use strict';
 
-const products = require('../products/products.js');
+const products = require('../products.js');
 
 describe('Products Model', () => {
 

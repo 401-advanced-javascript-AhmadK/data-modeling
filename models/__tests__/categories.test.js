@@ -1,6 +1,6 @@
 'use strict';
 
-const Categories = require('../categories/categories.js');
+const Categories = require('../categories.js');
 
 describe('Categories', () => {
 
